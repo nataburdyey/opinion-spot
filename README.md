@@ -1,0 +1,4 @@
+## Reviews App
+The `Reviews` project is a React application that showcases a collection of reviews from different individuals. The project allows users to explore the reviews by navigating through them using `next` and `previous` buttons. Additionally, there is a button to display a `random review`. The reviews include information such as the person's name, job, and their review text. The project also provides an optional integration of `React Icons` for additional styling and visual appeal. Overall, this project offers a user-friendly interface to browse and interact with various reviews.
+
+<img src="./public/reviews.png">
