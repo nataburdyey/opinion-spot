@@ -5,10 +5,10 @@ The project also provides an optional integration of `React Icons` for additiona
 
 ### Tech Stack
 - `HTML`: The fundamental language used for structuring the web application's content and user interface. 
-- `JavaScript`: Foundational programming language for creating responsive and interactive features.
-- `React`: A powerful JavaScript library used to build the project: 
-- - `useState` React hook used to manage state and create a state variable for the people array.
-- `React Icons`: A popular library providing a vast collection of icons for enhancing the user interface and user experience in the project.
+- `JavaScript`: The foundational programming language for creating responsive and interactive features.
+- `React`: The powerful JavaScript library used to build the project: 
+- - `useState`: The React hook used to manage state.
+- `React Icons`: The popular library that provides a vast collection of icons for enhancing the user interface and user experience in the project.
 
 ### Explore the Website
 [OpinionSpot on Netlify](https://opinion-spot.netlify.app/)
